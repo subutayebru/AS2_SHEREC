@@ -1,0 +1,10 @@
+build/
+devel/
+install/
+log/
+*.so
+*.pyc
+*.swp
+*.bak
+*.tmp
+.DS_Store
